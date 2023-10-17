@@ -13,11 +13,19 @@
 - sklearn.confusion_matrix
 
 ## (in code form)
+
 import numpy as np
+
 import pandas as pd
+
 from sklearn.model_selection import train_test_split
+
 import matplotlib.pyplot as plt
+
 from sklearn.neural_network import MLPClassifier
+
 from sklearn.preprocessing import StandardScaler
+
 from sklearn.metrics import accuracy_score
+
 from sklearn.metrics import classification_report,confusion_matrix
