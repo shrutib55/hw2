@@ -1,6 +1,6 @@
 # hw2
 
-## To run this code, the data files are given for the happiness index dataset. There are two files, the link is already included in the code, so there should be no need to input it yourself for it to run.
+## To run this code, the data files are given for the spambase dataset. There are two files, the link is already included in the code, so there should be no need to input it yourself for it to run.
 
 ## The following libraries are necessary to run the code 
 - numpy
